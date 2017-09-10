@@ -12,5 +12,5 @@ for p in players:
 #print players[0:3]
 
 players = ['иван', 'Сергей', 'michail', 'vladimir']
-for p in players[0:3]:
+for p in players[0:2]:
     print p
